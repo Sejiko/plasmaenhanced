@@ -1,6 +1,6 @@
-# GPT4All REST API
+# GPT4All REST API Testing
 This directory contains the source code to run and build docker images that run a FastAPI app
-for serving inference from GPT4All models. The API matches the OpenAI API spec.
+for serving inference from GPT4All models. The API matches the OpenAI API spec. 
 
 ## Tutorial
 
